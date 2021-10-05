@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>global-nav-training</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="global-nav-training" stroke="#76767A" stroke-width="2">
+            <g id="icn-home-2" transform="translate(6.000000, 6.000000)">
+                <path d="M13,19.0317574 L13,13.5 C13,12.1192881 11.8807119,11 10.5,11 C9.11928813,11 8,12.1192881 8,13.5 L8,19.0317574" id="Oval"></path>
+                <path d="M19,9 L19,19.0526178" id="Path-4-Copy"></path>
+                <polyline id="Path-2" stroke-linejoin="round" points="0.456542969 10.4443256 10.5288222 0.444325575 20.456543 10.3008045"></polyline>
+                <path d="M2,9 L2,19.0526178" id="Path-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

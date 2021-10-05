@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>global-nav-person</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="global-nav-person" stroke="#76767A" stroke-width="2">
+            <g id="icn-people-2" transform="translate(5.000000, 7.000000)">
+                <circle id="Oval-2" cx="6" cy="4" r="4"></circle>
+                <path d="M12.0211184,17.9816895 L12,14 C12,10.6862915 9.3137085,8 6,8 C2.6862915,8 0,10.6862915 0,14 L0,17.9816895" id="Oval-2-Copy-2" stroke-linecap="round"></path>
+                <path d="M23.0769055,18.0245448 L23,15.5 C23,12.4624339 20.5375661,10 17.5,10 C14.4624339,10 12,12.4624339 12,15.5 L12,18.0245448" id="Oval" stroke-linecap="round"></path>
+                <circle id="Oval-2-Copy" cx="17.5" cy="6.5" r="3.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
